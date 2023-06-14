@@ -1,0 +1,15 @@
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\bin\Debug\net6.0\prak9.exe
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\bin\Debug\net6.0\prak9.deps.json
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\bin\Debug\net6.0\prak9.runtimeconfig.json
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\bin\Debug\net6.0\prak9.dll
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\bin\Debug\net6.0\prak9.pdb
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\obj\Debug\net6.0\prak9.csproj.AssemblyReference.cache
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\obj\Debug\net6.0\prak9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\obj\Debug\net6.0\prak9.AssemblyInfoInputs.cache
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\obj\Debug\net6.0\prak9.AssemblyInfo.cs
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\obj\Debug\net6.0\prak9.csproj.CoreCompileInputs.cache
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\obj\Debug\net6.0\prak9.dll
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\obj\Debug\net6.0\refint\prak9.dll
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\obj\Debug\net6.0\prak9.pdb
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\obj\Debug\net6.0\prak9.genruntimeconfig.cache
+E:\Kuliah\Pemrograman\pemrogramanweek9\prak9\prak9\obj\Debug\net6.0\ref\prak9.dll
